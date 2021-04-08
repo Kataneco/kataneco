@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here's a bunch of empty repos I'll fill in soon
 
 <!--
 **Hornet07/Hornet07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
