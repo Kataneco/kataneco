@@ -1,6 +1,7 @@
 ### Here's a bunch of empty repos I'll fill in soon
-Update: Vulkan renderer done, I'll add it in a few decades
-
+Code is better when you know exactly what you want and be explicit
+That is why I have to rewrite my shit over and over again
+I never know
 <!--
 **Hornet07/Hornet07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
