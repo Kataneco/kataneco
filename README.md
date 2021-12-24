@@ -1,2 +1,1 @@
-### I command computers
-My favorite lang is C++ btw  
+[![Hornet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hornet07)](https://github.com/anuraghazra/github-readme-stats)
