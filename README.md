@@ -1,6 +1,7 @@
 ## I do broken graphics programming and other stuff,..  
 ### Check out some of the cool bugs I encountered while implementing a path tracer!  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tQ-dL7ZYD04?si=I2U9VjlypUiGF7yC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQ-dL7ZYD04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![ispy](https://github.com/Kataneco/kataneco/blob/main/ispywithmylittleeye.gif?raw=true)
 
