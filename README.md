@@ -1,3 +1,9 @@
-## I do broken graphics programming and other stuff..  
-![dragon](https://github.com/Kataneco/kataneco/blob/main/dragon.png?raw=true)  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kataneco&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
+## I do broken graphics programming and other stuff,..  
+### Check out some of the cool bugs I encountered while implementing a path tracer!  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQ-dL7ZYD04?si=I2U9VjlypUiGF7yC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+![ispy](https://github.com/Kataneco/kataneco/blob/main/ispywithmylittleeye.gif?raw=true)
+
+ooo  |  ooo  | ooo
+:--:|:--:|:--:
+![dragon](https://github.com/Kataneco/kataneco/blob/main/dragon.png?raw=true)  |  ![bnnuy](https://github.com/Kataneco/kataneco/blob/main/vvv.png?raw=true)  |  ![voxelia](https://github.com/Kataneco/kataneco/blob/main/voxelia.png?raw=true)  
